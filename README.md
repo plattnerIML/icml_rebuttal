@@ -10,7 +10,7 @@ This repository contains the source code and qualitative results for our propose
 
 Below is a representative comparison showing the baseline model's failure (meltdown) vs. our recovery method (PowerRemap) on a complex geometry.
 
-![Method Comparison](assets/psnr_curve_hash_grid__silu__sgd.png)
+![Method Comparison](./psnr_curve_hash_grid__silu__sgd.png)
 
 *Figure 1: (Left) Ground Truth mesh. (Middle) Baseline output showing disconnected components (α=ε). (Right) Our PowerRemap recovery (γ=1.05) restoring a single manifold component.*
 
