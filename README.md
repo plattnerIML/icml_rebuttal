@@ -20,12 +20,15 @@ In Figure R1 and R2, we show the phenomenon on basic geometries. Moving via smal
 
 ### Make-A-Shape
 
+#### Sphere
+
 ![Method Comparison](./figure1_mas.png)
 
-
-
+#### Google Scanned Objects
 
 ![Method Comparison](./figure4_mas.png)
+
+#### Other Basic Geometries
 
 
 ---
