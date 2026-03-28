@@ -28,19 +28,19 @@
 
 ![Method Comparison](./figure1_mas.png)
 
-**Figure R4.** Meltdown on the unit sphere (Make-a-Shape, DDIM, $N=1200$). Layout as Fig. R1.
+**Figure R4.** Meltdown on the unit sphere (Make-a-Shape, DDIM, $N=1200$). Setup and layout as Fig. R1.
 
 #### Google Scanned Objects
 
 ![Method Comparison](./figure4_mas.png)
 
-**Figure R5.** Meltdown on Google Scanned Objects (Make-a-Shape). Layout as Fig. R2.
+**Figure R5.** Meltdown on Google Scanned Objects (Make-a-Shape). Setup and layout as Fig. R2.
 
 #### Other Basic Geometries
 
 ![Method Comparison](./figure1_geoms_mas.png)
 
-**Figure R6.** Meltdown on cube (top) and cylinder (bottom), Make-a-Shape. Layout as Fig. R3.
+**Figure R6.** Meltdown on cube (top) and cylinder (bottom), Make-a-Shape. Setup and layout as Fig. R3.
 
 ---
 
