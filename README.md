@@ -5,8 +5,6 @@
 
 #### Sphere
 
-In Figure R1 and R2, we show the phenomenon on basic geometries. Moving via small steps achieves the sudden Meltdown.
-
 ![Method Comparison](./figure1_wala.png)
 
 **Figure R1.** Meltdown on the unit sphere (WaLa, DDIM, $N=400$). (a) Input point clouds $P_\rho$; (b) baseline reconstruction $G(P_\rho)$; (c) PowerRemap reconstruction. Left: healthy ($C=1$); right: Meltdown ($C \gg 1$). Adjacent columns differ by 0.2° of maximum geodesic arc ($\approx 0.003$ on the unit sphere).
@@ -43,6 +41,7 @@ In Figure R1 and R2, we show the phenomenon on basic geometries. Moving via smal
 ![Method Comparison](./figure1_geoms_mas.png)
 
 **Figure R6.** Meltdown on cube (top) and cylinder (bottom), Make-a-Shape. Layout as Fig. R3.
+
 ---
 
 ## Quantitative Figures
