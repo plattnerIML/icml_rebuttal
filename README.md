@@ -5,12 +5,13 @@
 
 #### Basic Geometry
 
+In Figure R1 and R2, we show the phenomenon on basic geometries. Moving via small steps achieves the sudden Meltdown.
+
 ![Method Comparison](./figure1_wala.png)
 
-#### Google Scanned Objects
 ![Method Comparison](./figure1_geoms.png)
 
-
+#### Google Scanned Objects
 
 ![Method Comparison](./figure4_wala.png)
 
