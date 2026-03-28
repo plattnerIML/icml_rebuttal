@@ -32,5 +32,5 @@
 
 ![Method Comparison](./symmetry_breaking.png)
 
-*Figure R2: Relative rate of change $\Delta_{\mathrm{rel}}$ of the normalized centroid separation between sphere and speckle trajectories across consecutive denoising steps $t$. The peak (highlighted bar) identifies the bifurcation at $\tau^*\approx5$, demarcating the mean-reverting and basin-settling regimes of the reverse process.*
+**Figure R2:** Relative rate of change $\Delta_{\mathrm{rel}}$ of the normalized centroid separation between sphere and speckle trajectories across consecutive denoising steps $t$. The peak (highlighted bar) identifies the bifurcation at $\tau^* \approx 5$, demarcating the mean-reverting and basin-settling regimes of the reverse process.
 
