@@ -3,9 +3,11 @@
 
 ### WaLa
 
+#### Basic Geometry
+
 ![Method Comparison](./figure1_wala.png)
 
-
+#### Google Scanned Objects
 ![Method Comparison](./figure1_geoms.png)
 
 
