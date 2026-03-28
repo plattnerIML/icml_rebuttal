@@ -9,13 +9,19 @@ In Figure R1 and R2, we show the phenomenon on basic geometries. Moving via smal
 
 ![Method Comparison](./figure1_wala.png)
 
+**Figure R1.** Meltdown on the unit sphere (WaLa, DDIM, $N=400$). (a) Input point clouds $P_\rho$; (b) baseline reconstruction $G(P_\rho)$; (c) PowerRemap reconstruction. Left: healthy ($C=1$); right: Meltdown ($C \gg 1$). Adjacent columns differ by 0.2° of maximum geodesic arc ($\approx 0.003$ on the unit sphere).
+
 #### Google Scanned Objects
 
 ![Method Comparison](./figure4_wala.png)
 
+**Figure R2.** Meltdown on Google Scanned Objects (WaLa). Columns: (a) ground truth; (b) input point cloud $P_0$; (c) baseline output $G(P_0)$; (d) perturbed input $P_\epsilon$; (e) Meltdown output $G(P_\epsilon)$; (f) PowerRemap output.
+
 #### Other Basic Geometries
 
 ![Method Comparison](./figure1_geoms.png)
+
+**Figure R3.** Meltdown on cube (top block) and cylinder (bottom block), WaLa. Layout as Fig. R1. Each column step $\approx 0.003$ maximum Euclidean displacement on unit-scale shapes, comparable to the sphere's 0.2° arc.
 
 
 ### Make-A-Shape
@@ -24,13 +30,19 @@ In Figure R1 and R2, we show the phenomenon on basic geometries. Moving via smal
 
 ![Method Comparison](./figure1_mas.png)
 
+**Figure R4.** Meltdown on the unit sphere (Make-a-Shape, DDIM, $N=1200$). Layout as Fig. R1.
+
 #### Google Scanned Objects
 
 ![Method Comparison](./figure4_mas.png)
 
+**Figure R5.** Meltdown on Google Scanned Objects (Make-a-Shape). Layout as Fig. R2.
+
 #### Other Basic Geometries
 
 ![Method Comparison](./figure1_geoms_mas.png)
+
+**Figure R6.** Meltdown on cube (top) and cylinder (bottom), Make-a-Shape. Layout as Fig. R3.
 ---
 
 ## Quantitative Figures
