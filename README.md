@@ -32,7 +32,7 @@
 
 ![Method Comparison](./attractor_coexistence.png)
 
-**Figure R1.** Number of seeds $n$ (out of 100) converging to the sphere attractor ($C=1$) versus the speckle attractor ($C>1$) as a function of $\rho$. At intermediate $\rho$, both attractors coexist in the ensemble, consistent with the bistability predicted by the symmetry-breaking picture of Section 4.
+**Figure R1.** Number of seeds $n$ (out of 100) converging to the sphere attractor ($C=1$) versus the speckle attractor ($C>1$) as a function of $\rho$. At intermediate $\rho$, both attractors coexist in the ensemble.
 
 ![Method Comparison](./symmetry_breaking.png)
 
