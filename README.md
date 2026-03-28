@@ -30,7 +30,7 @@ In Figure R1 and R2, we show the phenomenon on basic geometries. Moving via smal
 
 #### Other Basic Geometries
 
-
+![Method Comparison](./figure1_geoms_mas.png)
 ---
 
 ## Quantitative Figures
