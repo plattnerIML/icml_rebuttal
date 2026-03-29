@@ -40,7 +40,7 @@
 
 ![Method Comparison](./figure1_geoms_mas.png)
 
-**Figure R6.** Meltdown on cube (top) and cylinder (bottom), Make-a-Shape. Setup and layout as Fig. R3.
+**Figure R6.** Meltdown on cube (top) and ellipsoid (bottom), Make-a-Shape. Setup and layout as Fig. R3.
 
 ---
 
