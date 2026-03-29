@@ -46,16 +46,12 @@
 
 ## Quantitative Figures
 
-![Method Comparison](./intervention_directionality.png)
-
-**Figure R7.** PowerRemap (green) rescues only at sites upstream of or at $CA(4,7)$, by compressing the current spectrum before corruption enters the stream. Patching (purple) rescues at and downstream of $CA(4,7)$, by importing activations from a healthy forward pass that already contain the uncorrupted cross-attention write. Of 768 tested sites, only 3 (0.4%) produce a valid rescue with PowerRemap — all on the pathway to $CA(4,7)$.
-
 
 ![Method Comparison](./attractor_coexistence.png)
 
-**Figure R8.** Number of seeds $n$ (out of 100) converging to the sphere attractor ($C=1$) versus the speckle attractor ($C>1$) as a function of $\rho$. At intermediate $\rho$, both attractors coexist in the ensemble.
+**Figure R7.** Number of seeds $n$ (out of 100) converging to the sphere attractor ($C=1$) versus the speckle attractor ($C>1$) as a function of $\rho$. At intermediate $\rho$, both attractors coexist in the ensemble.
 
 ![Method Comparison](./symmetry_breaking.png)
 
-**Figure R9:** Relative rate of change $\Delta_{\mathrm{rel}}$ of the normalized centroid separation between sphere and speckle trajectories across consecutive denoising steps $t$. The peak (highlighted bar) identifies the bifurcation at $\tau^* \approx 5$, demarcating the mean-reverting and basin-settling regimes of the reverse process.
+**Figure R8:** Relative rate of change $\Delta_{\mathrm{rel}}$ of the normalized centroid separation between sphere and speckle trajectories across consecutive denoising steps $t$. The peak (highlighted bar) identifies the bifurcation at $\tau^* \approx 5$, demarcating the mean-reverting and basin-settling regimes of the reverse process.
 
