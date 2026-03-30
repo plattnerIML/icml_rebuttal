@@ -4,19 +4,19 @@
 
 #### Sphere
 
-![Method Comparison](./figure1_wala.png)
+![Method Comparison](./fig_r1.png)
 
 **Figure R1.** Meltdown on the unit sphere (WaLa, DDIM, `N=400`). (a) Input point clouds `P_rho`; (b) baseline reconstruction `G(P_rho)`; (c) PowerRemap reconstruction. Left: healthy (`C=1`); right: Meltdown (`C >> 1`). Adjacent columns differ by 0.2° of maximum geodesic arc (`~0.003` on the unit sphere).
 
 #### Google Scanned Objects
 
-![Method Comparison](./figure4_wala.png)
+![Method Comparison](./fig_r2.png)
 
 **Figure R2.** Meltdown on Google Scanned Objects (WaLa). Columns: (a) ground truth; (b) input point cloud `P_0`; (c) baseline output `G(P_0)`; (d) perturbed input `P_epsilon`; (e) Meltdown output `G(P_epsilon)`; (f) PowerRemap output.
 
 #### Other Basic Geometries
 
-![Method Comparison](./figure1_geoms.png)
+![Method Comparison](./fig_r3.png)
 
 **Figure R3.** Meltdown on cube (top block) and cylinder (bottom block), WaLa. Layout as Fig. R1. Each column step `~0.003` maximum Euclidean displacement on unit-scale shapes, comparable to the sphere's 0.2° arc.
 
@@ -24,19 +24,19 @@
 
 #### Sphere
 
-![Method Comparison](./figure1_mas.png)
+![Method Comparison](./fig_r4.png)
 
 **Figure R4.** Meltdown on the unit sphere (Make-a-Shape, DDIM, `N=1200`). Setup and layout as Fig. R1.
 
 #### Google Scanned Objects
 
-![Method Comparison](./figure4_mas.png)
+![Method Comparison](./fig_r5.png)
 
 **Figure R5.** Meltdown on Google Scanned Objects (Make-a-Shape). Setup and layout as Fig. R2.
 
 #### Other Basic Geometries
 
-![Method Comparison](./figure1_geoms_mas.png)
+![Method Comparison](./fig_r6.png)
 
 **Figure R6.** Meltdown on cube (top) and ellipsoid (bottom), Make-a-Shape. Setup and layout as Fig. R3.
 
@@ -44,10 +44,10 @@
 
 ## Quantitative Figures
 
-![Method Comparison](./attractor_coexistence.png)
+![Method Comparison](./fig_r7.png)
 
 **Figure R7.** Number of seeds `n` (out of 100) converging to the sphere attractor (`C=1`) versus the speckle attractor (`C > 1`) as a function of `rho`. At intermediate `rho`, both attractors coexist in the ensemble.
 
-![Method Comparison](./symmetry_breaking.png)
+![Method Comparison](./fig_r8.png)
 
 **Figure R8:** Relative rate of change `Delta_rel` of the normalized centroid separation between sphere and speckle trajectories across consecutive denoising steps `t`. The peak (highlighted bar) identifies the bifurcation at `tau* ~ 5`, demarcating the mean-reverting and basin-settling regimes of the reverse process.
