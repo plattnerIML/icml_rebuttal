@@ -48,6 +48,6 @@
 
 **Figure R7.** Number of seeds `n` (out of 100) converging to the sphere attractor (`C=1`) versus the speckle attractor (`C > 1`) as a function of `rho`. At intermediate `rho`, both attractors coexist in the ensemble.
 
-![Method Comparison](./fig_r8.png)
+![Method Comparison](./fig_r8_.png)
 
 **Figure R8:** Relative rate of change `Delta_rel` of the normalized centroid separation between sphere and speckle trajectories across consecutive denoising steps `t`. The peak (highlighted bar) identifies the bifurcation at `tau* ~ 5`, demarcating the mean-reverting and basin-settling regimes of the reverse process.
